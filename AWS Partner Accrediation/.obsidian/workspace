@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7b806e836fb0b596",
+    "type": "split",
+    "children": [
+      {
+        "id": "78cbd2efbb81b80f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "05 AWS Management interfaces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54a2557da07a2e74",
+    "type": "split",
+    "children": [
+      {
+        "id": "386a73e8e4832c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6c40a0ee95ccc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85f12da0ac1fa6a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f4ea8d7dffeb5f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "778de46dfea670ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e5d7e1c6f2cdb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 AWS Management interfaces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "78cbd2efbb81b80f",
+  "lastOpenFiles": [
+    "05 AWS Management interfaces.md",
+    "01 What is Cloud?.md",
+    "Rehosting.png",
+    "02 Core Technologie Compute.md",
+    "08 Architectural Best Practices.md",
+    "07 Migration Strategies.md",
+    "AWS Services breadth and depth.png",
+    "AWS management interfaces.png",
+    "04 Core Technologies Databases.md",
+    "03 Core Technologies Storage.md"
+  ]
+}

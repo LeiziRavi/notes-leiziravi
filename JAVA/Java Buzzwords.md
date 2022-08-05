@@ -1,0 +1,13 @@
+- Simple
+- Secure
+- Portable
+- Object-oriented
+- Robust
+	- Java is strictly typed language.
+- Multithreaded
+- Architecture-neutral
+	- __write once; run anywhere, any time, forever__
+- Interpreted
+- High Performance
+- Distributed
+- Dynamic

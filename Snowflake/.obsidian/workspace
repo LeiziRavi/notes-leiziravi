@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "eac4c05859484ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf20f1ec9a3f68b",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Snowflake Editions.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b42ec667a0ded9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a7fc4bd2b86a11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e1fa3247d2301f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d848da0e075a2ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92a2ed0922b140d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dc0dc4a044cfef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3fbc2af0d30a54c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Snowflake Editions.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8bf20f1ec9a3f68b",
+  "lastOpenFiles": [
+    "Snowflake Editions.png",
+    "Quick Start.md",
+    "Why did you decide to name the company Snowflake?.md",
+    "04 SnowFlake's Feature.md",
+    "03 SnowFlake Architecture.md",
+    "SnowFlake's Three Layer Architecture.png",
+    "02 Why the Snowflake Data Cloud Is Different.md",
+    "01 Emergence of Snowflake.md"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6fdf0855626fea09",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f6cafe7a8ffc81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fundamentals.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2b1fe2aab3a4d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "96fc2929ae42b4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58408acd506e2da9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f461f6be04b64eb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85858729186d6389",
+    "type": "split",
+    "children": [
+      {
+        "id": "96431c4d6931dc1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f52ce94e971e3c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80f6cafe7a8ffc81",
+  "lastOpenFiles": [
+    "Fundamentals.md"
+  ]
+}

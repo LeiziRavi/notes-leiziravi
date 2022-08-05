@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "619f944f7538e325",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f05ba233c4af27",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pricing AWS Lambda.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fea5db4c57d6e7e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0be23d1555567cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3143741111c76fe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7144c0026e6e25c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a03fa50a93228c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6214dd462dbdf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e22168b120d07a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pricing AWS Lambda.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26f05ba233c4af27",
+  "lastOpenFiles": [
+    "Pasted image 20220603171433.png",
+    "Pasted image 20220603171359.png",
+    "Pasted image 20220603171244.png",
+    "Pasted image 20220603162212.png",
+    "Pasted image 20220531165721.png",
+    "Pasted image 20220531165615.png",
+    "Lambda Execution Environment.png",
+    "Introduction.md",
+    "GSON.md",
+    "Create Handler.md"
+  ]
+}

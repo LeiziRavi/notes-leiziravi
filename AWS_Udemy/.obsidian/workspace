@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "c97170041653791a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1653aa6851091b91",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1944701ca37da26",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfff5ab471a18aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9450244c561af7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d02ae9ca32a04d53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9411fea2e067c24",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d53ea100d6210a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "35eae5473a5897e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29f7ce3b8df74d4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88970715d89f0abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c61d2f6fecc932e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5659165fe8c9e8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1653aa6851091b91",
+  "lastOpenFiles": [
+    "IAM/Intro.md",
+    "Getting Started with AWS/AWS Cloud History.md"
+  ]
+}

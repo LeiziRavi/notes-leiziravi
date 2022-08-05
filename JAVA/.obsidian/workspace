@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4d6b40142b9ad661",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d3f7efcb4a03344",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction/Servlets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e720ef35b339ca9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "df3bf97eb8c2dbc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90272cd84c8d6b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "885b5cad7d3dbbef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2430a974b5420fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b43755c7ccbe64b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d277ab800d8ecc51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction/Servlets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d3f7efcb4a03344",
+  "lastOpenFiles": [
+    "Introduction/Servlets.md",
+    "Java Buzzwords.md",
+    "Generics/Boxing and Unboxing.md",
+    "Generics/Generics.md",
+    "Generics/Type Erasure.md"
+  ]
+}

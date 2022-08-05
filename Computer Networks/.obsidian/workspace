@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0f3943fb436e9b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e9175bfeeaa6d3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b1261f3cfcd9dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "64179287d12679ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9668096909a9b32f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cae797d3b871a82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5bfed3575a99198",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe57f0d91260f30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf75c45f9137c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0e9175bfeeaa6d3",
+  "lastOpenFiles": [
+    "Notes/12 Layering in Computer Networks.md",
+    "Notes/10 Switching Techniques in Computer Netwroks.md",
+    "Notes/11 Basics of Port Addressing.md",
+    "Notes/10 Basics of MAC Addressing.md",
+    "Notes/09 Basics of IP Addressing.md",
+    "Images/IP Address example.png",
+    "Notes/08 Network Topology (Solved Questions).md",
+    "Images/Star Topology.png",
+    "Images/Ring Topology.png",
+    "Pasted image 20220519124951.png"
+  ]
+}
