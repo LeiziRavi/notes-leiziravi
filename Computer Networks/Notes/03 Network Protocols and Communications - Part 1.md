@@ -72,3 +72,9 @@
 			1. if sender sends the data to a set of receivers but not to all
 		3. Broadcast
 			1. If sender sends the data to all the participants in the network
+
+
+
+
+
+

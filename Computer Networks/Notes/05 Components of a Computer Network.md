@@ -20,7 +20,7 @@
 		4. Satellite (Example: Long-Range commuication - GPS)
 3. Services
 	1. e-Mail
-	2. Stodage Devices
+	2. Storage Devices
 	3. File Sharing
 	4. Instant messaging
 	5. Online Game

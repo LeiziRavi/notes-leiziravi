@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/03 Network Protocols and Communications - Part 1.md",
+            "file": "Notes/06 Classification of Computer Networks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/03 Network Protocols and Communications - Part 1.md",
+                "file": "Notes/06 Classification of Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "f0e9175bfeeaa6d3",
   "lastOpenFiles": [
+    "Notes/05 Components of a Computer Network.md",
     "Notes/04 Network Protocols and Communications - Part 2.md",
     "Notes/03 Network Protocols and Communications - Part 1.md",
     "Notes/02 Basic Characteristics of Computer Networks.md",
@@ -97,7 +98,6 @@
     "Notes/12 Layering in Computer Networks.md",
     "Notes/10 Switching Techniques in Computer Netwroks.md",
     "Notes/11 Basics of Port Addressing.md",
-    "Notes/10 Basics of MAC Addressing.md",
-    "Notes/09 Basics of IP Addressing.md"
+    "Notes/10 Basics of MAC Addressing.md"
   ]
 }
