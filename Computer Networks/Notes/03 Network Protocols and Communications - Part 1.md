@@ -9,7 +9,7 @@
 		- Sommunication is always unidirectional.
 		- One device can transmit and the other device will receive.
 		- Example: Keyboard, Traditional monitors
-	- Hal Duplex
+	- Half Duplex
 		- Communication is in both directions but not at the same time.
 		- If one device is sending, the other can only receive, and vice versa.
 		- Example: Walkie-talkies
@@ -24,13 +24,13 @@
 	- Source or sender
 	- Destination or receiver
 	- Channel or media
-- Rules or protocols govern all methods  of communication
+- __Rules or protocols govern all methods  of communication__
 - __Protocol=Rule__
 - It is set of rule that govern data communication
 - Protocol Determines:
-	- What is communicated?
-	- How it is communicated?
-	- When it is communicated?
+	- __What__ is communicated?
+	- __How__ it is communicated?
+	- __When__ it is communicated?
 
 
 #### Protocols - Human Communication

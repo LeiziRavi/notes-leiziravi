@@ -5,7 +5,7 @@
 	- Not scalable
 
 
-- Client-Server Network
+- __Client-Server Network__
 	- Centralized administration
 	- Request-Response model
 	- Scalable

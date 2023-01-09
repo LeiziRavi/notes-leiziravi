@@ -20,5 +20,5 @@ __End device__: Desktop computer, tablet, smartphone, web-server
 
 - A computer network is mainly used for resource sharing.
 - Network saves a lot of infrastructure cost as well.
-	- eg. if we need printer for each of the computers in the network, it will increase the cost, and is not practically viable solution, instead we can connect the printer with the printer and all the computer in the network can work with one printer only.
+	- eg. if we need printer for each of the computers in the network, it will increase the cost, and is not practically viable solution, instead we can connect the printer with the switch and all the computer in the network can work with one printer only.
 

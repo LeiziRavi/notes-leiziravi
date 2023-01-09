@@ -8,7 +8,7 @@ There are four basic characteristics that every computer network should posses:
 		1. Grow based on the needs
 		2. Have good performance after growth
 3. Quality of Service
-	1. It is the aility to 
+	1. It is the ability to 
 		1. Set priorities
 		2. Manage data traffic to reduce data loss, delay etc.
 		3. eg. if a router received two packets at a time, then this router should know which data it should process first.
