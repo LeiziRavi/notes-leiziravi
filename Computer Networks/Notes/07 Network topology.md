@@ -25,6 +25,7 @@
 		- Two connections: one each of its nearest neighbors
 		- Unidirectional 
 		- Sending and receiving data takes place with the help of a ==token==
+![[Ring Network.png | 300x300]]
 | Advantages                             | Disadvantages                                                         |
 | -------------------------------------- | --------------------------------------------------------------------- |
 | Performance better than Bus topology   | Unidirectional. Single point of failure will affect the whole network |

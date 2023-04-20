@@ -4,7 +4,7 @@
 
 
 #### Switching Techniques
-![[Pasted image 20220602230853.png]]
+![[switching techniques.png]]
 
 1. __Circuit Switching__:
 	- A dedicated path is established between the sender and the receiver

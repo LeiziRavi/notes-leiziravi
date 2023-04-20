@@ -1,6 +1,6 @@
 1. Local Area Network (LAN)
 	1. Restricted to a small area 
-	2. A LAN is a computer network that interconnects computers witin ==a limited area== such as a residence, school, laboratory, university campue, or office building
+	2. A LAN is a computer network that interconnects computers witin ==a limited area== such as a residence, school, laboratory, university campus, or office building
 	3. We can set-up LAN in two ways:
 		1. Wired LAN (Example: Ethernet-Hub, Switch)
 		2. Wireless LAN (Example: Wi-Fi)

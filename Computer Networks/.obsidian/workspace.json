@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "0f3943fb436e9b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2dd17dbe387d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba749906a7bd01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/07 Network topology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b1261f3cfcd9dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "64179287d12679ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9668096909a9b32f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cae797d3b871a82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5bfed3575a99198",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe57f0d91260f30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf75c45f9137c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/07 Network topology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1ba749906a7bd01f",
+  "lastOpenFiles": [
+    "Images/Ring Network.png",
+    "Images/Ring Topology.png",
+    "Notes/07 Network topology.md",
+    "Topics.md",
+    "Types of Computer Networks.md",
+    "Untitled.canvas",
+    "Images/switching techniques.png",
+    "Notes/13 Switching Techniques in Computer Netwroks.md",
+    "Notes/12 Layering in Computer Networks.md",
+    "Notes/10 Basics of MAC Addressing.md"
+  ]
+}

@@ -6,7 +6,7 @@
 - Data is going to flow from one node to another node.
 - There are three different types of flows:
 	- Simplex
-		- Sommunication is always unidirectional.
+		- Communication is always unidirectional.
 		- One device can transmit and the other device will receive.
 		- Example: Keyboard, Traditional monitors
 	- Half Duplex
@@ -59,7 +59,7 @@
 	3. We are going to add some information [i.e. we are going to encapsulate some information about the sender and the receiver] into data in order to identify the sender and the receiver.
 3. Message timing
 	1. Flow control
-		1. Say sender is very fast and receiver is slow, hence receiver can handle the data flow, hence entire communication will be useless
+		1. Say sender is very fast and receiver is slow, hence receiver cannot handle the data flow, hence entire communication will be useless
 	2.  Response timeout
 4. Message size
 	1. Human break long messages into smaller parts or sentences.
