@@ -1,0 +1,5 @@
+AWS Lambda is one of the computing services provided by AWS, which is **event-driven** and **serverless**. ==It is a **stateless** **serverless system** that helps us run our background tasks in the most efficient manner possible.==  
+![What is AWS Lambda](https://intellipaat.com/mediaFiles/2018/12/What-is-AWS-Lambda.png)  
+Here, ==being serverless doesn’t mean that servers are nowhere in the play. Instead, it means that we don’t have to worry about the provisioning or management of our servers or instances==; it just helps us focus on our main goal, i.e., **coding**. We just have to put our code in AWS Lambda, and we’re good to go!
+
+==Whatever resources are required for our code in response to our events, AWS Lambda automatically provides us.== The best feature of it is that we just have to ==pay for every single request made during the time==.

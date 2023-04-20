@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e5f9999873f48403",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c34e94156247a41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "05 Running MultiContainer Applications/10 Running tests.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8f3cab3066af581",
+    "type": "split",
+    "children": [
+      {
+        "id": "40063aa3b2972277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d0c51869ebc883",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0342262978b8f08d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295
+  },
+  "right": {
+    "id": "f1daa10c5f1cf5de",
+    "type": "split",
+    "children": [
+      {
+        "id": "77be91a8af495740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce6b05355fc6754",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 Running MultiContainer Applications/10 Running tests.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5c34e94156247a41",
+  "lastOpenFiles": [
+    "05 Running MultiContainer Applications/10 Running tests.md",
+    "05 Running MultiContainer Applications/09 Migrating the Database.md",
+    "05 Running MultiContainer Applications/08 Publishing changes.md",
+    "05 Running MultiContainer Applications/07 Viewing logs.md",
+    "05 Running MultiContainer Applications/06 Docker Networking.md",
+    "05 Running MultiContainer Applications/05 Starting and Stopping the application.md",
+    "05 Running MultiContainer Applications/04 Building Engines.md",
+    "05 Running MultiContainer Applications/03 Creating a compose file.md",
+    "05 Running MultiContainer Applications/02 JSON and YAML formats.md",
+    "05 Running MultiContainer Applications/01 Cleaning up our workspace.md"
+  ]
+}

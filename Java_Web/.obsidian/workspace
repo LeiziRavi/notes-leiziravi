@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "b29becfd3a0473af",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b545409becfd8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTTP Request and Response.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b67bfaa8e7f155",
+    "type": "split",
+    "children": [
+      {
+        "id": "165ad7a4ea747210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0f581e0731db74e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccfe7685f3fd7a29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c8e0fb8c58a5a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f227b2bee6eb3b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669f974b60be4bc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTTP Request and Response.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99b545409becfd8f",
+  "lastOpenFiles": [
+    "HTTP Request and Response.md"
+  ]
+}

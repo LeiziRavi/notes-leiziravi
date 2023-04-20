@@ -1,0 +1,5 @@
+- S3 was a great way to store files in the cloud, but it didn’t have any traditional data management capabilities
+- initially Hadoop was very complex and required developers with coding knowledge to get any value out of it. Hadoop did not have any SQL interface until 2010.
+- Hive was only introduced on October 1, 2010, and then it still wasn’t really well integrated with the entire Hadoop solution.
+- Realizing there were still incredibly difficult challenges scaling big data solutions in 2012, the Snowflake founders came together to build a relational database management system (RDBMS) built from the ground up on a cloud architecture.
+- NoSQL solutions including Hadoop were cloud technologies that had come a long way since 2006, but Hadoop especially was still expensive and too complex for most organizations to operate.

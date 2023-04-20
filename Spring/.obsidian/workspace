@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2c505672c2ada079",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9fa5d5fd6d8124",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reflection API/Introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "951845b870ab9445",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a8ea6dd296b53b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1dde8460e6eab9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7376cb185d8bea6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3845317408614a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dca4c1d4bbc88a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5357b3d3857fcb79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reflection API/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7f9fa5d5fd6d8124",
+  "lastOpenFiles": [
+    "Reflection API/Introduction.md",
+    "Introduction.md"
+  ]
+}

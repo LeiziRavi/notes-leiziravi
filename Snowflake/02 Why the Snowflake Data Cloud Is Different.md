@@ -1,0 +1,3 @@
+- Snowflake was the first database architected to run on the cloud from the ground up.
+- Since 2020, Snowflake brands itself as Snowflake Data Cloud, But it was created to be a __SQL Database Engine with Automated Scaling and tuning__ at first.
+- Snowflake differentiates itself from all of these other solutions since its core architecture was an RDBMS built for the cloud.

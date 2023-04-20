@@ -1,0 +1,1 @@
+![[AWS Lambda vs AWS Elastic Beanstalk.png]]

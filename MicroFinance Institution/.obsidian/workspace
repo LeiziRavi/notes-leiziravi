@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "146d1e5a1faa2911",
+    "type": "split",
+    "children": [
+      {
+        "id": "2881806f8e0015db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MFI Bureau Solution Architecture.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df15718e1c80eea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "21afb0cbc8824753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167b7b79ae6a78b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96a316c6330891a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "900b3a1ffb2a304b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca96d8a4e0754f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "801fa493fb92976b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MFI Bureau Solution Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2881806f8e0015db",
+  "lastOpenFiles": [
+    "MFI Bureau Solution Architecture.md"
+  ]
+}

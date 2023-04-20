@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "a0adaad13485b6fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "51a9f68b8c9b2651",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Trivial Sequential Server.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "375b031b2875ad41",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2218288c950ec31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65d0e3b1c64ee8cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8beeec137dd92bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "767d26895ba1eb7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e9ff1efce8ca49a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670cf786e4c8277e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A Trivial Sequential Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51a9f68b8c9b2651",
+  "lastOpenFiles": [
+    "A Trivial Sequential Server.md",
+    "Basic Vocabulary.md"
+  ]
+}

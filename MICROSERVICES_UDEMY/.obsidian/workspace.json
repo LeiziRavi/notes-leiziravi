@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "323ff85a0d8c798c",
+    "type": "split",
+    "children": [
+      {
+        "id": "540a4e8b480794b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1690f61b93b66d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/02 Docker First Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6715ec4202b63ef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/03 Docker Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdebcb26f1bfb54c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/03 Docker Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdba9f50f5692e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/04 More with Docker Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b82fa9f81cc9603",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ad4c75ae3bb980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9948d6c2f6b74b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fe399ebddffb8fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22cd571e5efab263",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c4730db30783856",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83420708cfd322c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16557d1c0f99da52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOCKER/04 More with Docker Images.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8ea433f2fdcd931",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOCKER/04 More with Docker Images.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eb81b56e0c75136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d813a0cc698aa846",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOCKER/04 More with Docker Images.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "fdba9f50f5692e68",
+  "lastOpenFiles": [
+    "DOCKER/Running two containers at once on Host machine.png",
+    "DOCKER/04 More with Docker Images.md",
+    "DOCKER/03 Docker Concepts.md",
+    "DOCKER/Docker Hub.md",
+    "DOCKER/02 Docker First Project.md",
+    "DOCKER/Response of JS application Run from Docker.png",
+    "Untitled.canvas",
+    "DOCKER/01 Docker Installation.md"
+  ]
+}

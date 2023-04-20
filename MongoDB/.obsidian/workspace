@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f6a54bd8abc8c6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bab05778d178eaa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 Introduction/MongoDb on high level.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cef7fda488a2030",
+    "type": "split",
+    "children": [
+      {
+        "id": "2908de254d80c40b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abbc536b6eb66af5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a307121f81fb8be0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13708e2094abe303",
+    "type": "split",
+    "children": [
+      {
+        "id": "632a7b76cea53e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a831f7c9fbc63ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Introduction/MongoDb on high level.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5bab05778d178eaa",
+  "lastOpenFiles": [
+    "01 Introduction/Scaling out MongoDB using sharding across multiple servers.png",
+    "01 Introduction/MongoDb on high level.md",
+    "03 Schema & Relations/06 One-to-Many.md",
+    "03 Schema & Relations/07 Many-to-Many.md",
+    "03 Schema & Relations/05 Relations - Options.md",
+    "03 Schema & Relations/04 Data Schemas & Data Modelling.md",
+    "03 Schema & Relations/03 Data Types.md",
+    "03 Schema & Relations/02 To Schema or Not To Schema.md",
+    "03 Schema & Relations/01 Schema-less or Not.md",
+    "01 Introduction/Code.md"
+  ]
+}

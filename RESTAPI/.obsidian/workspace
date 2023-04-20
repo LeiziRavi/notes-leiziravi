@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "07b665cd08e37782",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fd57ab7c37370f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cross-Cutting Concern.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c41f03ad4420e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "67523c29bae18312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3877413685aa56bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d96aaefe07f9c79f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9809210202a9abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0043341c374e8fe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52fea9f740f6a6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cross-Cutting Concern.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8fd57ab7c37370f6",
+  "lastOpenFiles": [
+    "Cross-Cutting Concern.md"
+  ]
+}

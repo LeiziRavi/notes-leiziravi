@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "d0841efe383d8ddc",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b3be1012b0bf3a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 How to call a python function..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e267343ae0fd0c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91d20f5aeac8e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d46eb500f3cd72e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54c2e95ef4fa9fe9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f82cb07604586193",
+    "type": "split",
+    "children": [
+      {
+        "id": "079037c7149b4a75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a04f91ce8c6a669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 How to call a python function..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "02b3be1012b0bf3a",
+  "lastOpenFiles": [
+    "01 How to call a python function..md"
+  ]
+}

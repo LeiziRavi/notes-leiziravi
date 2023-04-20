@@ -1,0 +1,17 @@
+- We take an application (No matter what kind the application is or how it is build), and dockerize it, i.e. we make a small change so it can be run by docker.
+- __HOW?__ : We just add a dockerfile to it.
+- __DockerFile__ is a plain text file which includes instructions that docker uses to package of this application to an image. 
+- This image contain everything our package needs  to run.
+	- Typically:
+		- A cut-down os
+		- A runtime environment (eg Node)
+		- Application files
+		- Third-party libraries 
+		- Environment variables and so on..
+
+- Once we have an image, we tell the Docker to start a container using that image. 
+- A container is just a process. [It is special kind of process, becoz it has its own file system which is provided by the image.]
+- Once we have this image, we can push it to a registry i.e. Docker Hub.
+- Docker Hub  to Docker is like Git Hub to git, it is storage for docker images that any one can use.
+- Once our image is on docker hub, then we can pull it on any machine running docker.
+- This machine has the same image we had on the development machine, which contains a specific version of our application with everything it needs. So we can start the application same way we started it on the development machine.
